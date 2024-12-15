@@ -9,7 +9,7 @@ class Solution {
         while(right<nums.length){
             currSum+=nums[right];
 
-            while(currSum>=target){
+            while(currSum>=target){ // Shrinking the window
                 minLength = Math.min(minLength,right-left+1);
                 currSum-=nums[left];
                 left++;
