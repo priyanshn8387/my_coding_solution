@@ -2,28 +2,41 @@ class Solution {
     public int[][] merge(int[][] intervals) {
 
         
-        Arrays.sort(intervals,(a,b)->a[0]-b[0]);
+       // Step 1: Sort intervals based on start times
+        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
 
-        List<int[]> li = new ArrayList<>();
+        // Step 2: Use a list of lists to store merged intervals
+        List<List<Integer>> mergedIntervals = new ArrayList<>();
 
-        li.add(intervals[0]); // adding first interval
+        // Step 3: Add the first interval as a list
+        mergedIntervals.add(Arrays.asList(intervals[0][0], intervals[0][1]));
 
-        for(int i=1;i<intervals.length;i++){
-            int start=intervals[i][0];
-            int end =intervals[i][1];
+        // Step 4: Iterate through intervals and merge overlapping ones
+        for (int i = 1; i < intervals.length; i++) {
+            int start = intervals[i][0];
+            int end = intervals[i][1];
 
-            // Check for overlap with the last interval in the result
-            // li.get(li.size()-1)[0] => 1
-            // li.get(li.size()-1)[1] => 3
-            if(li.get(li.size()-1)[1]>= start){
-                li.get(li.size()-1)[1]=Math.max(li.get(li.size()-1)[1],end);
-            }else{
-                li.add(intervals[i]); // adding to back to list li
-            }  
+            // Get the last interval in the merged list
+            List<Integer> lastInterval = mergedIntervals.get(mergedIntervals.size() - 1);
+            int lastEnd = lastInterval.get(1);
+
+            if (lastEnd >= start) {
+                // Overlapping case: update the end of the last interval
+                lastInterval.set(1, Math.max(lastEnd, end));
+            } else {
+                // Non-overlapping case: add a new interval
+                mergedIntervals.add(Arrays.asList(start, end));
+            }
         }
 
-        // Step 5: Convert result list to a 2D array
-        return li.toArray(new int[li.size()][]);
+        // Step 5: Convert List<List<Integer>> to a 2D array
+        int[][] result = new int[mergedIntervals.size()][2];
+        for (int i = 0; i < mergedIntervals.size(); i++) {
+            result[i][0] = mergedIntervals.get(i).get(0);
+            result[i][1] = mergedIntervals.get(i).get(1);
+        }
+
+        return result;
 
 
 
