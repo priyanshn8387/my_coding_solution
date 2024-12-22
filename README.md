@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/priyanshn8387/my_coding_solution/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/priyanshn8387/my_coding_solution/tree/master/0057-insert-interval) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/priyanshn8387/my_coding_solution/tree/master/0792-binary-search) |
