@@ -29,17 +29,33 @@ class Solution {
        // return ans;
 
        // 2. bottom up 
-        dp[0]=nums[0];
+        // dp[0]=nums[0];
+
+        // for(int i=1;i<nums.length;i++){
+          
+        //     int pick = nums[i]+ ((i-2<0) ? 0 :dp[i-2]);
+            
+        //     int notPick = 0+ dp[i-1];
+        //     dp[i]=Math.max(pick,notPick);
+        // }
+
+        // return dp[index];
+
+        // 3. space optimised 
+        int prev2= nums[0];
+        int prev1 = 0;
 
         for(int i=1;i<nums.length;i++){
-          
-            int pick = nums[i]+ ((i-2<0) ? 0 :dp[i-2]);
-            
-            int notPick = 0+ dp[i-1];
-            dp[i]=Math.max(pick,notPick);
+            int pick = nums[i]+ prev1;
+            int notPick = 0+ prev2;
+            int curr=Math.max(pick,notPick);
+
+            prev1=prev2;
+            prev2=curr;
         }
 
-        return dp[index];
+        return prev2;
+
 
 
 
