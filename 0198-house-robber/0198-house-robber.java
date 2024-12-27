@@ -32,9 +32,8 @@ class Solution {
         dp[0]=nums[0];
 
         for(int i=1;i<nums.length;i++){
-            int pick=0;
-            
-            pick = nums[i]+ ((i-2<0) ? 0 :dp[i-2]);
+          
+            int pick = nums[i]+ ((i-2<0) ? 0 :dp[i-2]);
             
             int notPick = 0+ dp[i-1];
             dp[i]=Math.max(pick,notPick);
