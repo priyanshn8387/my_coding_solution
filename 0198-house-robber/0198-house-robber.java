@@ -29,6 +29,11 @@ class Solution {
        // return ans;
 
        // 2. bottom up 
+        // base case for nums array
+        // if (nums.length == 0) return 0; // Handle edge case where nums is empty
+        //  if (nums.length == 1) return nums[0]; // Handle edge case with a single house
+
+        // base case for dp array
         // dp[0]=nums[0];
 
         // for(int i=1;i<nums.length;i++){
