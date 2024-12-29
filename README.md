@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/priyanshn8387/my_coding_solution/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/priyanshn8387/my_coding_solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/priyanshn8387/my_coding_solution/tree/master/0057-insert-interval) |
 | [0198-house-robber](https://github.com/priyanshn8387/my_coding_solution/tree/master/0198-house-robber) |
@@ -58,5 +59,10 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/priyanshn8387/my_coding_solution/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/priyanshn8387/my_coding_solution/tree/master/0198-house-robber) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/priyanshn8387/my_coding_solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
