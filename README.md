@@ -9,6 +9,7 @@
 | [0057-insert-interval](https://github.com/priyanshn8387/my_coding_solution/tree/master/0057-insert-interval) |
 | [0198-house-robber](https://github.com/priyanshn8387/my_coding_solution/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/priyanshn8387/my_coding_solution/tree/master/0792-binary-search) |
 | [1028-interval-list-intersections](https://github.com/priyanshn8387/my_coding_solution/tree/master/1028-interval-list-intersections) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyanshn8387/my_coding_solution/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/priyanshn8387/my_coding_solution/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0416-partition-equal-subset-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
