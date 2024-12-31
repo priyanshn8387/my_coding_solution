@@ -13,15 +13,13 @@ class Solution {
         }
     }
 
-
-    public int recurShiftingIndex(String text1, String text2, int i, int j, int[][] dp){
-
-        if (i == 1 && j == 1) return (text1.charAt(i-1) == text2.charAt(j-1) ? 1 : 0);
-        if (i ==0 || j == 0) return 0;
+    public int recurShiftingIndex(String text1, String text2, int i, int j, int[][] dp) {
+        if (i == 1 && j == 1) return (text1.charAt(i - 1) == text2.charAt(j - 1) ? 1 : 0);
+        if (i == 0 || j == 0) return 0;
 
         if (dp[i][j] != -1) return dp[i][j];
 
-        if (text1.charAt(i-1) == text2.charAt(j-1)) {
+        if (text1.charAt(i - 1) == text2.charAt(j - 1)) {
             return dp[i][j] = 1 + recurShiftingIndex(text1, text2, i - 1, j - 1, dp);
         } else {
             return dp[i][j] = Math.max(recurShiftingIndex(text1, text2, i - 1, j, dp), recurShiftingIndex(text1, text2, i, j - 1, dp));
@@ -29,8 +27,7 @@ class Solution {
     }
 
     public int longestCommonSubsequence(String text1, String text2) {
-
-        /* top down
+        /* 1.top down
         int i = text1.length() - 1;
         int j = text2.length() - 1;
 
@@ -41,7 +38,8 @@ class Solution {
 
         */
 
-        // top down with shifting index
+        /*
+        // 2.top down with shifting index
         int i = text1.length() - 1;
         int j = text2.length() - 1;
 
@@ -50,9 +48,9 @@ class Solution {
 
         return recurShiftingIndex(text1,text2,i+1,j+1,dp);
 
-        
+        */
 
-        /* tabulation
+        /* 3.tabulation
 
         int[][] dp = new int[text1.length()][text2.length()];
 
@@ -77,8 +75,29 @@ class Solution {
 
         */
 
-        
+        // 4. tabulation with shifting index
+        int[][] dp = new int[text1.length() + 1][text2.length() + 1];
 
+        for (int i = 0; i < text1.length() + 1; i++) dp[i][0] = 0;
+        for (int j = 0; j < text2.length() + 1; j++) dp[0][j] = 0;
+
+        if (text1.charAt(0) == text2.charAt(0)) {
+            dp[1][1] = 1;
+        } else {
+            dp[1][1] = 0;
+        }
+
+        for (int i = 1; i < text1.length() + 1; i++) {
+            for (int j = 1; j < text2.length() + 1; j++) {
+                if (text1.charAt(i - 1) == text2.charAt(j - 1)) {
+                    dp[i][j] = 1 + dp[i-1][j-1];
+                } else {
+                    dp[i][j] = Math.max(dp[i-1][j], dp[i][j-1]);
+                }
+            }
+        }
+
+        return dp[text1.length()][text2.length()];
         // space optimised
         // int [] prev = new int[text2.length()];
 
@@ -104,7 +123,6 @@ class Solution {
         // }
 
         //  return prev[text2.length()-1];
-
 
     }
 }
