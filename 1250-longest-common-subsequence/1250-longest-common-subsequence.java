@@ -75,6 +75,7 @@ class Solution {
 
         */
 
+        /*
         // 4. tabulation with shifting index
         int[][] dp = new int[text1.length() + 1][text2.length() + 1];
 
@@ -98,31 +99,43 @@ class Solution {
         }
 
         return dp[text1.length()][text2.length()];
+
+        */
+
+
         // space optimised
-        // int [] prev = new int[text2.length()];
 
-        // if (text1.charAt(0) == text2.charAt(0)) {
-        //     prev[0] = 1;
-        // } else {
-        //     prev[0] = 0;
-        // }
+        int[]prev = new int[text2.length() + 1];
+        
 
-        // for (int i = 0; i < text1.length(); i++) {
-        //     int [] curr = new int[text2.length()];
-        //     curr[0] = (text1.charAt(0) == text2.charAt(0)) ? 1 : 0;
-        //     for (int j = 0; j < text2.length(); j++) {
-        //         if (text1.charAt(i) == text2.charAt(j)) {
-        //             curr = 1 + ( i>0 && j>0 ? prev[j-1] : 0);
-        //         } else {
-        //             curr = Math.max((i > 0 ? prev[j] : 0),
-        //                 (j > 0 ? curr[i] : 0));
-        //         }
-        //     }
+        prev[0] = 0;
+        // for (int j = 0; j < text2.length() + 1; j++) dp[0][j] = 0;
 
-        //     prev=curr;
-        // }
+        if (text1.charAt(0) == text2.charAt(0)) {
+            prev[1] = 1;
+        } else {
+            prev[1] = 0;
+        }
 
-        //  return prev[text2.length()-1];
+        for (int i = 1; i < text1.length() + 1; i++) {
+            int[]curr = new int[text2.length() + 1];
+            curr[0] = 0;
+            for (int j = 1; j < text2.length() + 1; j++) {
+                if (text1.charAt(i - 1) == text2.charAt(j - 1)) {
+                    curr[j] = 1 + prev[j-1];
+                } else {
+                    curr[j] = Math.max(prev[j], curr[j-1]);
+                }
+            }
+
+            prev=curr;
+        }
+
+        return prev[text2.length()];
+
+
+
+        
 
     }
 }
