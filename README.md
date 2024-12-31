@@ -34,6 +34,7 @@
 | [0076-minimum-window-substring](https://github.com/priyanshn8387/my_coding_solution/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshn8387/my_coding_solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/priyanshn8387/my_coding_solution/tree/master/0583-delete-operation-for-two-strings) |
+| [1170-shortest-common-supersequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/1250-longest-common-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshn8387/my_coding_solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
@@ -66,6 +67,7 @@
 | [0198-house-robber](https://github.com/priyanshn8387/my_coding_solution/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/priyanshn8387/my_coding_solution/tree/master/0583-delete-operation-for-two-strings) |
+| [1170-shortest-common-supersequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/1250-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
