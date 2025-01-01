@@ -26,6 +26,26 @@ class Solution {
         }
     }
 
+    public String getLCSString(String text1, String text2, int[][] dp) {
+        int i = text1.length() - 1;
+        int j = text2.length() - 1;
+        StringBuilder lcs = new StringBuilder();
+
+        while (i >= 0 && j >= 0) {
+            if (text1.charAt(i) == text2.charAt(j)) {
+                lcs.append(text1.charAt(i));
+                i--;
+                j--;
+            } else if (i > 0 && dp[i - 1][j] >= dp[i][j - 1]) {
+                i--;
+            } else {
+                j--;
+            }
+        }
+
+        return lcs.reverse().toString();
+    }
+
     public int longestCommonSubsequence(String text1, String text2) {
         /* 1.top down
         int i = text1.length() - 1;
@@ -37,6 +57,12 @@ class Solution {
         return recur(text1,text2,i,j,dp);
 
         */
+
+        /* 1.1 print lcs with top down appriach as well 
+            
+            String lcs = getLCSString(text1, text2, dp);
+
+        /*
 
         /*
         // 2.top down with shifting index
@@ -103,7 +129,7 @@ class Solution {
         */
 
 
-        // space optimised
+        // 5. space optimised
 
         int[]prev = new int[text2.length() + 1];
         
