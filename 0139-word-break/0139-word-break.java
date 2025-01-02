@@ -25,6 +25,14 @@ class Solution {
 
         int index = 0;
         Boolean[] dp = new Boolean[s.length()];
+        /*
+        boolean [] dp = new boolean[s.length()];
+        The dp array is initialized as a boolean[] of size s.length(), but this does not    
+        allow   
+        differentiation between "not yet computed" and false. This causes logical errors.
+        Fix: Use a Boolean[] array to allow null values for uninitialized states.
+
+        */
         return recur(s,wordDict,index,dp);
         
     }
