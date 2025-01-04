@@ -46,6 +46,7 @@
 | [0072-edit-distance](https://github.com/priyanshn8387/my_coding_solution/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/priyanshn8387/my_coding_solution/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/priyanshn8387/my_coding_solution/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/priyanshn8387/my_coding_solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0140-word-break-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshn8387/my_coding_solution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -87,6 +88,7 @@
 | [0064-minimum-path-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/priyanshn8387/my_coding_solution/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/priyanshn8387/my_coding_solution/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/priyanshn8387/my_coding_solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/priyanshn8387/my_coding_solution/tree/master/0198-house-robber) |
