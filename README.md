@@ -27,6 +27,7 @@
 | [0792-binary-search](https://github.com/priyanshn8387/my_coding_solution/tree/master/0792-binary-search) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1028-interval-list-intersections](https://github.com/priyanshn8387/my_coding_solution/tree/master/1028-interval-list-intersections) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/priyanshn8387/my_coding_solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/priyanshn8387/my_coding_solution/tree/master/2755-extra-characters-in-a-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshn8387/my_coding_solution/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
@@ -65,6 +66,7 @@
 | [1170-shortest-common-supersequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/1250-longest-common-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshn8387/my_coding_solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/priyanshn8387/my_coding_solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/priyanshn8387/my_coding_solution/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
 |  |
@@ -86,6 +88,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0713-subarray-product-less-than-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/priyanshn8387/my_coding_solution/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sorting
 |  |
 | ------- |
