@@ -22,7 +22,7 @@ class Solution {
 
             }
 
-            if(!prefixMap.containsKey(sum%k))
+            if(!prefixMap.containsKey(sum%k)) // coz we need longest length
                 prefixMap.put(sum%k,i);
         }
 
