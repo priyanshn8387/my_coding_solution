@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/priyanshn8387/my_coding_solution/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/priyanshn8387/my_coding_solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/priyanshn8387/my_coding_solution/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/priyanshn8387/my_coding_solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/priyanshn8387/my_coding_solution/tree/master/0057-insert-interval) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshn8387/my_coding_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/priyanshn8387/my_coding_solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/priyanshn8387/my_coding_solution/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/priyanshn8387/my_coding_solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0140-word-break-ii) |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshn8387/my_coding_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/priyanshn8387/my_coding_solution/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/priyanshn8387/my_coding_solution/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/priyanshn8387/my_coding_solution/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/priyanshn8387/my_coding_solution/tree/master/0131-palindrome-partitioning) |
@@ -96,6 +99,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/priyanshn8387/my_coding_solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/priyanshn8387/my_coding_solution/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshn8387/my_coding_solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshn8387/my_coding_solution/tree/master/0451-sort-characters-by-frequency) |
