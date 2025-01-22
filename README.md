@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/priyanshn8387/my_coding_solution/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/priyanshn8387/my_coding_solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/priyanshn8387/my_coding_solution/tree/master/0053-maximum-subarray) |
@@ -42,6 +43,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshn8387/my_coding_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/priyanshn8387/my_coding_solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/priyanshn8387/my_coding_solution/tree/master/0076-minimum-window-substring) |
