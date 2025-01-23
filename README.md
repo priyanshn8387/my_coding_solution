@@ -24,6 +24,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshn8387/my_coding_solution/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0518-coin-change-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0560-subarray-sum-equals-k) |
@@ -53,6 +54,7 @@
 | [0146-lru-cache](https://github.com/priyanshn8387/my_coding_solution/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshn8387/my_coding_solution/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshn8387/my_coding_solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshn8387/my_coding_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0560-subarray-sum-equals-k) |
