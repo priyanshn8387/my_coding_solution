@@ -12,6 +12,7 @@
 | [0057-insert-interval](https://github.com/priyanshn8387/my_coding_solution/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0064-minimum-path-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshn8387/my_coding_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/priyanshn8387/my_coding_solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/priyanshn8387/my_coding_solution/tree/master/0198-house-robber) |
@@ -118,6 +119,7 @@
 | [0063-unique-paths-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/priyanshn8387/my_coding_solution/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshn8387/my_coding_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/priyanshn8387/my_coding_solution/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/priyanshn8387/my_coding_solution/tree/master/0139-word-break) |
