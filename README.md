@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/priyanshn8387/my_coding_solution/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/priyanshn8387/my_coding_solution/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/priyanshn8387/my_coding_solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/priyanshn8387/my_coding_solution/tree/master/0053-maximum-subarray) |
@@ -39,6 +40,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/priyanshn8387/my_coding_solution/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0713-subarray-product-less-than-k) |
