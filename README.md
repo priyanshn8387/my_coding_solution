@@ -14,6 +14,7 @@
 | [0057-insert-interval](https://github.com/priyanshn8387/my_coding_solution/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/priyanshn8387/my_coding_solution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshn8387/my_coding_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/priyanshn8387/my_coding_solution/tree/master/0139-word-break) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/priyanshn8387/my_coding_solution/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/0300-longest-increasing-subsequence) |
@@ -183,6 +185,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0074-search-a-2d-matrix) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Depth-First Search
 |  |
