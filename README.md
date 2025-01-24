@@ -12,6 +12,7 @@
 | [0057-insert-interval](https://github.com/priyanshn8387/my_coding_solution/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/priyanshn8387/my_coding_solution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshn8387/my_coding_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/priyanshn8387/my_coding_solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0140-word-break-ii) |
@@ -107,11 +108,13 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/priyanshn8387/my_coding_solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/priyanshn8387/my_coding_solution/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/priyanshn8387/my_coding_solution/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshn8387/my_coding_solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshn8387/my_coding_solution/tree/master/0451-sort-characters-by-frequency) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/priyanshn8387/my_coding_solution/tree/master/0075-sort-colors) |
 | [1028-interval-list-intersections](https://github.com/priyanshn8387/my_coding_solution/tree/master/1028-interval-list-intersections) |
 ## Dynamic Programming
 |  |
