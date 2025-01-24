@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/priyanshn8387/my_coding_solution/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/priyanshn8387/my_coding_solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/priyanshn8387/my_coding_solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/priyanshn8387/my_coding_solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/priyanshn8387/my_coding_solution/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0063-unique-paths-ii) |
@@ -185,6 +186,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0073-set-matrix-zeroes) |
@@ -257,4 +259,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/priyanshn8387/my_coding_solution/tree/master/0146-lru-cache) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
