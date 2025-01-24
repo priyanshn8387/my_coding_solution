@@ -14,6 +14,7 @@
 | [0057-insert-interval](https://github.com/priyanshn8387/my_coding_solution/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/priyanshn8387/my_coding_solution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshn8387/my_coding_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -57,6 +58,7 @@
 | [0001-two-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshn8387/my_coding_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/priyanshn8387/my_coding_solution/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/priyanshn8387/my_coding_solution/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/priyanshn8387/my_coding_solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0140-word-break-ii) |
@@ -185,6 +187,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0074-search-a-2d-matrix) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Depth-First Search
