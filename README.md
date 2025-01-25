@@ -128,6 +128,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/priyanshn8387/my_coding_solution/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0908-middle-of-the-linked-list) |
 | [1028-interval-list-intersections](https://github.com/priyanshn8387/my_coding_solution/tree/master/1028-interval-list-intersections) |
 ## Dynamic Programming
@@ -260,6 +261,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/priyanshn8387/my_coding_solution/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0908-middle-of-the-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -273,4 +275,9 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
