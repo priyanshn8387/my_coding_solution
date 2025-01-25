@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/priyanshn8387/my_coding_solution/tree/master/0075-sort-colors) |
+| [0908-middle-of-the-linked-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0908-middle-of-the-linked-list) |
 | [1028-interval-list-intersections](https://github.com/priyanshn8387/my_coding_solution/tree/master/1028-interval-list-intersections) |
 ## Dynamic Programming
 |  |
@@ -255,6 +256,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/priyanshn8387/my_coding_solution/tree/master/0146-lru-cache) |
+| [0908-middle-of-the-linked-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0908-middle-of-the-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
