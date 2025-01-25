@@ -256,6 +256,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/priyanshn8387/my_coding_solution/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0908-middle-of-the-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -265,4 +266,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0054-spiral-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
