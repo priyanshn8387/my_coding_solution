@@ -10,31 +10,27 @@
  */
 class Solution {
 
-    public void appendLL(ListNode head, PriorityQueue<Integer> pq){
-       
-
-        while(head!=null){
-            pq.offer(head.val);
-            head=head.next;
-        }
-
-
-    }
     public ListNode mergeKLists(ListNode[] lists) {
 
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        PriorityQueue<ListNode> pq = new PriorityQueue<>((a,b)->a.val - b.val);
 
         for(ListNode list : lists){
-            appendLL(list,pq);
+            if(list!=null){
+                pq.offer(list);
+            }
         }
 
         ListNode newHead = new ListNode(-1);
         ListNode newTail=newHead;
 
         while(!pq.isEmpty()){
-            ListNode temp  = new ListNode(pq.poll());
+            ListNode temp  = pq.poll();
             newTail.next = temp;
             newTail = temp;
+
+            if(temp.next!=null){
+                pq.offer(temp.next);
+            }
         }
 
         return newHead.next;
