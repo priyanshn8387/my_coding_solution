@@ -267,6 +267,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/priyanshn8387/my_coding_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/priyanshn8387/my_coding_solution/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/priyanshn8387/my_coding_solution/tree/master/0146-lru-cache) |
