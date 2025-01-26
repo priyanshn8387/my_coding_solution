@@ -209,12 +209,14 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0662-maximum-width-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/priyanshn8387/my_coding_solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/priyanshn8387/my_coding_solution/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0662-maximum-width-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0662-maximum-width-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -257,6 +259,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0222-count-complete-tree-nodes) |
+| [0662-maximum-width-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -271,6 +274,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0222-count-complete-tree-nodes) |
+| [0662-maximum-width-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
