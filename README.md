@@ -52,6 +52,7 @@
 | [0074-search-a-2d-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/priyanshn8387/my_coding_solution/tree/master/0792-binary-search) |
@@ -255,6 +256,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/priyanshn8387/my_coding_solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -268,6 +270,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/priyanshn8387/my_coding_solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -318,4 +321,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/priyanshn8387/my_coding_solution/tree/master/0739-daily-temperatures) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
