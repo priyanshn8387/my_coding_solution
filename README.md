@@ -210,6 +210,7 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -217,6 +218,7 @@
 | [0322-coin-change](https://github.com/priyanshn8387/my_coding_solution/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -276,6 +279,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
