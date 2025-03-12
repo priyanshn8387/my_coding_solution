@@ -15,46 +15,44 @@
  */
 class Solution {
     public int widthOfBinaryTree(TreeNode root) {
-        // Deque<TreeNode,Integer> dq = new ArrayDeque<>();
-        // int idx =0
-        // dq.add(Pair<>(root,idx));
+        
+        Deque<Pair<TreeNode,Long>> dq = new ArrayDeque<>();
 
-        // while(!dq.isEmpty()){
+        dq.offer(new Pair<>(root,0L));
+        long maxi = Integer.MIN_VALUE;
 
-        //     Deque<TreeNode,Integer> dq = dq.poll();
-        // }
 
-                if (root == null) return 0;
+        while(!dq.isEmpty()){
+            int size = dq.size();
 
-        Deque<Pair<TreeNode, Long>> deque = new ArrayDeque<>();
-        deque.offer(new Pair<>(root, 0L)); // Start with the root at index 0
-        int maxWidth = 0;
+            long firstIndex = dq.peekFirst().getValue();
 
-        while (!deque.isEmpty()) {
-            int size = deque.size();
-            long firstIndex = deque.peekFirst().getValue(); // Index of the first node in the level
-            long lastIndex = deque.peekLast().getValue();  // Index of the last node in the level
+            long lastIndex = dq.peekLast().getValue();
 
-            // Calculate the width of the current level
-            maxWidth = (int) Math.max(maxWidth, lastIndex - firstIndex + 1);
+            maxi = Math.max(maxi,lastIndex-firstIndex+1);
 
-            for (int i = 0; i < size; i++) {
-                Pair<TreeNode, Long> current = deque.poll(); // Remove the first element
+            for(int i=0;i<size;i++){
+                Pair<TreeNode,Long> current = dq.poll();
                 TreeNode currentNode = current.getKey();
-                long currentIndex = current.getValue();
+                Long index = current.getValue();
 
-                // Add left child with its calculated index
-                if (currentNode.left != null) {
-                    deque.offer(new Pair<>(currentNode.left, 2 * currentIndex + 1));
+                if(currentNode.left!=null){
+                    dq.offer(new Pair<>(currentNode.left,2*index+1));
                 }
 
-                // Add right child with its calculated index
-                if (currentNode.right != null) {
-                    deque.offer(new Pair<>(currentNode.right, 2 * currentIndex + 2));
+                if(currentNode.right!=null){
+                    dq.offer(new Pair<>(currentNode.right,2*index+2));
                 }
+
             }
+
+
         }
 
-        return maxWidth;
+
+        return (int)maxi;
+
+
+        
     }
 }
