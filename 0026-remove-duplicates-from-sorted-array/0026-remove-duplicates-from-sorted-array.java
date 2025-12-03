@@ -5,7 +5,7 @@ class Solution {
         if(nums.length==1) return 1;
 
         int left=0;
-        int right=1;
+        int right=0;
 
         while(right<nums.length){
             if(nums[left]==nums[right]) right++;
