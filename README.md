@@ -44,6 +44,7 @@
 | [0518-coin-change-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/priyanshn8387/my_coding_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/priyanshn8387/my_coding_solution/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/priyanshn8387/my_coding_solution/tree/master/0733-flood-fill) |
@@ -117,6 +118,7 @@
 | [0076-minimum-window-substring](https://github.com/priyanshn8387/my_coding_solution/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshn8387/my_coding_solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/priyanshn8387/my_coding_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0713-subarray-product-less-than-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshn8387/my_coding_solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshn8387/my_coding_solution/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
