@@ -43,6 +43,7 @@
 | [0463-island-perimeter](https://github.com/priyanshn8387/my_coding_solution/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/priyanshn8387/my_coding_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/priyanshn8387/my_coding_solution/tree/master/0695-max-area-of-island) |
@@ -85,6 +86,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshn8387/my_coding_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2755-extra-characters-in-a-string](https://github.com/priyanshn8387/my_coding_solution/tree/master/2755-extra-characters-in-a-string) |
@@ -129,6 +131,7 @@
 | [0238-product-of-array-except-self](https://github.com/priyanshn8387/my_coding_solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/priyanshn8387/my_coding_solution/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0713-subarray-product-less-than-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/1016-subarray-sums-divisible-by-k) |
