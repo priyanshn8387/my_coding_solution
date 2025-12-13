@@ -48,6 +48,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/priyanshn8387/my_coding_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/priyanshn8387/my_coding_solution/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/priyanshn8387/my_coding_solution/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/priyanshn8387/my_coding_solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/priyanshn8387/my_coding_solution/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/priyanshn8387/my_coding_solution/tree/master/0792-binary-search) |
@@ -134,6 +135,7 @@
 | [0525-contiguous-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/priyanshn8387/my_coding_solution/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyanshn8387/my_coding_solution/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sorting
