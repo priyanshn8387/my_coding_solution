@@ -59,6 +59,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyanshn8387/my_coding_solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/priyanshn8387/my_coding_solution/tree/master/2755-extra-characters-in-a-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshn8387/my_coding_solution/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3477-fruits-into-baskets-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/priyanshn8387/my_coding_solution/tree/master/0792-binary-search) |
+| [3477-fruits-into-baskets-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -364,6 +366,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0054-spiral-matrix) |
+| [3477-fruits-into-baskets-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/3477-fruits-into-baskets-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -400,4 +403,12 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/priyanshn8387/my_coding_solution/tree/master/0179-largest-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
