@@ -52,6 +52,7 @@
 | [0733-flood-fill](https://github.com/priyanshn8387/my_coding_solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/priyanshn8387/my_coding_solution/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/priyanshn8387/my_coding_solution/tree/master/0792-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/priyanshn8387/my_coding_solution/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1028-interval-list-intersections](https://github.com/priyanshn8387/my_coding_solution/tree/master/1028-interval-list-intersections) |
@@ -90,6 +91,7 @@
 | [0523-continuous-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/priyanshn8387/my_coding_solution/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2755-extra-characters-in-a-string](https://github.com/priyanshn8387/my_coding_solution/tree/master/2755-extra-characters-in-a-string) |
@@ -125,6 +127,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshn8387/my_coding_solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/priyanshn8387/my_coding_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/priyanshn8387/my_coding_solution/tree/master/0904-fruit-into-baskets) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshn8387/my_coding_solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshn8387/my_coding_solution/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
