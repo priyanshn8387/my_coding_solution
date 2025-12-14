@@ -1,67 +1,55 @@
 class Solution {
     public String minWindow(String s, String t) {
-
+        
         Map<Character,Integer> freqMap = new HashMap<>();
-
-        for(int i=0;i<t.length();i++){ // filling up the map
+        for(int i=0;i<t.length();i++){
             char ch = t.charAt(i);
-            freqMap.put(ch,freqMap.getOrDefault(ch,0)+1);
+            freqMap.put(ch, freqMap.getOrDefault(ch,0)+1);
         }
-
-        // now, valid window will have all character present in string S.
-        // like : BECODEBA
-        // now remember the concept of ucc -> unique character count, which is size of map
-        // initially the ucc = 3 , means charcter is not conusumed, if its : 0 then we can say
-        // that it is consumed in valid window
-
         int uniqueCharacterCount = freqMap.size();
-        int left = 0, right = 0; // or windowStart, windowEnd
-        int minLength = Integer.MAX_VALUE;
-        int startIndex = -1 ; // to calculate the final substring : startIndex+minLength
+
+        int left =0;
+        int right=0;
+        int len = Integer.MAX_VALUE;
+        int startIndex = 0;
 
         while(right<s.length()){
-            char ch = s.charAt(right);
-            if(freqMap.containsKey(ch)){ // expansion phase
-                freqMap.put(ch,freqMap.get(ch)-1);
-                
-                if(freqMap.get(ch)==0){ // means we have consumed and that character are there 
-                // in main string s
-                    uniqueCharacterCount--;
-                }
+            char incoming = s.charAt(right); //expansion
+            if(freqMap.containsKey(incoming)){
+                // if(freqMap.get(incoming)==1){
+                //     freqMap.remove(incoming); // No need to remove as we are making it value -1,0,1
+                //     uniqueCharacterCount--;
+                // }else{
+                //     freqMap.put(incoming,freqMap.getOrDefault(incoming,0)-1);
+                // }
+
+                freqMap.put(incoming,freqMap.getOrDefault(incoming,0)-1);
+                if(freqMap.get(incoming)==0) uniqueCharacterCount--;
+               
             }
 
-            // now we got valid window, now we have to shrink to find min length
-            // untile unless we got valid window we need to shrink
-            // that means walid vindow is ucc = 0
-
-            while(uniqueCharacterCount == 0){ // shrinking
-                int substringLen = right-left+1;
-                if(minLength>substringLen){ // finding min length
-                    minLength=substringLen;
-                    startIndex=left;
-                }
-
-                ch = s.charAt(left);
-                if(freqMap.containsKey(ch)){ 
-                    freqMap.put(ch,freqMap.get(ch)+1);
-                    
-                    if(freqMap.get(ch)>0){ // now again the map has value A->1 this means, A 
-                    //             is 
-                    //gone from main string s, so now ucc will incresee and again need to find 
-                    // for 
-                    //A in expnsion
-                        uniqueCharacterCount++;
+            if(uniqueCharacterCount==0){
+                while(uniqueCharacterCount==0){
+                    char outgoing = s.charAt(left);
+                   // len = Math.min(len,rigth-left+1); // we need maker for left index 
+                    if(len>=right-left+1){
+                        len = right-left+1;
+                        startIndex = left;
                     }
-                }
-                left++;
-            }
-            right++; //looking for next A in main string A, so expansion phase
+                    if(freqMap.containsKey(outgoing)){
+                        freqMap.put(outgoing, freqMap.getOrDefault(outgoing,0)+1);
+                        if(freqMap.get(outgoing)==1) uniqueCharacterCount++;
+                    }
+                    
 
+                    left++;
+                }
+            }
+
+            right++;
         }
 
-        if(minLength == Integer.MAX_VALUE) return "";
-        else return s.substring(startIndex,startIndex+minLength);
-
-        
+        if(len==Integer.MAX_VALUE) return "";
+        else return s.substring(startIndex,startIndex+len);
     }
 }
