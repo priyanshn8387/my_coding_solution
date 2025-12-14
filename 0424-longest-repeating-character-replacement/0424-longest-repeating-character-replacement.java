@@ -33,7 +33,7 @@ class Solution {
                         maxFreq=Math.max(maxFreq,it.getValue());
                     }
                     left++;
-                    len = right-left+1;
+                    len = right-left+1; // updating the len
                 }
             }
 
