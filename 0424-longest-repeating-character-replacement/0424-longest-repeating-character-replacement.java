@@ -3,6 +3,9 @@ class Solution {
 
         if(s.length()<k) return 0;
 
+        // we makde this condition for sliding woindow :
+         // len-maxFreq == k (valid) replacement
+
         Map<Character,Integer> freqMap = new HashMap<>();
 
         int left=0;
