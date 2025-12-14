@@ -1,48 +1,35 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
+        
+       
+        int [] arr1 = new int[26];
+        int [] arr2 = new int[26];
 
-        Map<Character, Integer> txtMap = new HashMap<>();
-        Map<Character, Integer> pattMap = new HashMap<>();
-        List<Integer> results = new ArrayList<>();
+        List<Integer> res = new ArrayList<>();
 
-        // add corner case always, p cant be longer than s
-        if(s.length()<p.length()) return results;
+        if(p.length()>s.length()) return res;
 
         int k = p.length();
-        
-
-
-        for (int i = 0; i < k; i++) {
-            char txt = s.charAt(i);
-            char patt = p.charAt(i);
-
-            txtMap.put(txt,txtMap.getOrDefault(txt,0)+1);
-            pattMap.put(patt,pattMap.getOrDefault(patt,0)+1);
-           
+        for(int i=0;i<k;i++){
+            arr1[p.charAt(i)-'a']++;
+            arr2[s.charAt(i)-'a']++;
         }
-
-        if (txtMap.equals(pattMap)) {
-            results.add(0);
+        //if(arr1.equals(arr2)) return true;// wrong syntax
+        if(Arrays.equals(arr1,arr2)) {
+            res.add(0);
         }
-
-        for (int i = k; i < s.length(); i++) {
-
+        for(int i=k;i<s.length();i++){
             char incoming = s.charAt(i);
-            txtMap.put(incoming,txtMap.getOrDefault(incoming,0)+1);
+            char outgoing = s.charAt(i-k);
 
-            char outgoing = s.charAt(i - k);
-            if (txtMap.get(outgoing) == 1) {
-                txtMap.remove(outgoing);
-            } else {
-                txtMap.put(outgoing, txtMap.get(outgoing) - 1);
-            }
+            arr2[incoming-'a']++;
+            arr2[outgoing-'a']--;
 
-            if (txtMap.equals(pattMap)) {
-                results.add(i-k+1);
+            if(Arrays.equals(arr1,arr2)) {
+                res.add(i-k+1);
             }
         }
 
-        return results;
-
+        return res;
     }
 }
