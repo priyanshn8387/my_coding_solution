@@ -53,6 +53,7 @@
 | [0724-find-pivot-index](https://github.com/priyanshn8387/my_coding_solution/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/priyanshn8387/my_coding_solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/priyanshn8387/my_coding_solution/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/priyanshn8387/my_coding_solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/priyanshn8387/my_coding_solution/tree/master/0792-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/priyanshn8387/my_coding_solution/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -212,6 +213,7 @@
 | [0518-coin-change-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/priyanshn8387/my_coding_solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/priyanshn8387/my_coding_solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/priyanshn8387/my_coding_solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1170-shortest-common-supersequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/1250-longest-common-subsequence) |
 | [2755-extra-characters-in-a-string](https://github.com/priyanshn8387/my_coding_solution/tree/master/2755-extra-characters-in-a-string) |
