@@ -43,6 +43,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0463-island-perimeter](https://github.com/priyanshn8387/my_coding_solution/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0525-contiguous-array) |
@@ -210,6 +211,7 @@
 | [0322-coin-change](https://github.com/priyanshn8387/my_coding_solution/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/priyanshn8387/my_coding_solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/priyanshn8387/my_coding_solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -245,6 +247,7 @@
 | [0079-word-search](https://github.com/priyanshn8387/my_coding_solution/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/priyanshn8387/my_coding_solution/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0494-target-sum) |
 ## Math
 |  |
 | ------- |
