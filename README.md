@@ -36,6 +36,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/priyanshn8387/my_coding_solution/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/priyanshn8387/my_coding_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/priyanshn8387/my_coding_solution/tree/master/0303-range-sum-query-immutable) |
@@ -77,6 +78,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshn8387/my_coding_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/priyanshn8387/my_coding_solution/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/priyanshn8387/my_coding_solution/tree/master/0792-binary-search) |
@@ -93,6 +95,7 @@
 | [0140-word-break-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/priyanshn8387/my_coding_solution/tree/master/0146-lru-cache) |
+| [0268-missing-number](https://github.com/priyanshn8387/my_coding_solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshn8387/my_coding_solution/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshn8387/my_coding_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshn8387/my_coding_solution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -171,6 +174,7 @@
 | [0056-merge-intervals](https://github.com/priyanshn8387/my_coding_solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/priyanshn8387/my_coding_solution/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/priyanshn8387/my_coding_solution/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/priyanshn8387/my_coding_solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshn8387/my_coding_solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshn8387/my_coding_solution/tree/master/0451-sort-characters-by-frequency) |
 ## Two Pointers
@@ -258,6 +262,7 @@
 | [0062-unique-paths](https://github.com/priyanshn8387/my_coding_solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/priyanshn8387/my_coding_solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/priyanshn8387/my_coding_solution/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0523-continuous-subarray-sum) |
 ## Combinatorics
 |  |
@@ -425,6 +430,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/priyanshn8387/my_coding_solution/tree/master/0268-missing-number) |
 ## Union Find
 |  |
 | ------- |
