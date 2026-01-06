@@ -25,6 +25,7 @@
 | [0079-word-search](https://github.com/priyanshn8387/my_coding_solution/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshn8387/my_coding_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/priyanshn8387/my_coding_solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -92,6 +93,7 @@
 | [0049-group-anagrams](https://github.com/priyanshn8387/my_coding_solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/priyanshn8387/my_coding_solution/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/priyanshn8387/my_coding_solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0142-linked-list-cycle-ii) |
@@ -437,6 +439,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/priyanshn8387/my_coding_solution/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/priyanshn8387/my_coding_solution/tree/master/0695-max-area-of-island) |
 ## Greedy
