@@ -1,20 +1,20 @@
 class Solution {
     public int maxProfit(int[] prices) {
 
-        int minBuyStockValue = prices[0];
-        int mini = Integer.MAX_VALUE;
+        int low =0;
+        int high =1;
         int maxProfit =0;
 
-        for(int i=1;i<prices.length;i++){
-
-            int currentDaySell = prices[i];
-            maxProfit = Math.max(maxProfit,currentDaySell-minBuyStockValue);
-
-            minBuyStockValue = Math.min(minBuyStockValue, prices[i]);
+        while(high<prices.length){
+            maxProfit=Math.max(maxProfit,prices[high]-prices[low]);
+            if(prices[low]>prices[high]){
+                low=high;
+            }
+            high++;
         }
 
         return maxProfit;
-
+        
 
 
         
