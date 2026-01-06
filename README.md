@@ -23,6 +23,7 @@
 | [0074-search-a-2d-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/priyanshn8387/my_coding_solution/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/priyanshn8387/my_coding_solution/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshn8387/my_coding_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/0128-longest-consecutive-sequence) |
@@ -176,6 +177,7 @@
 | [0049-group-anagrams](https://github.com/priyanshn8387/my_coding_solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/priyanshn8387/my_coding_solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/priyanshn8387/my_coding_solution/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/priyanshn8387/my_coding_solution/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/priyanshn8387/my_coding_solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshn8387/my_coding_solution/tree/master/0347-top-k-frequent-elements) |
@@ -189,6 +191,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/priyanshn8387/my_coding_solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/priyanshn8387/my_coding_solution/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/priyanshn8387/my_coding_solution/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0143-reorder-list) |
