@@ -61,6 +61,7 @@
 | [0739-daily-temperatures](https://github.com/priyanshn8387/my_coding_solution/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/priyanshn8387/my_coding_solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/priyanshn8387/my_coding_solution/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/priyanshn8387/my_coding_solution/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/priyanshn8387/my_coding_solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -86,6 +87,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/priyanshn8387/my_coding_solution/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/priyanshn8387/my_coding_solution/tree/master/0875-koko-eating-bananas) |
 | [3477-fruits-into-baskets-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
