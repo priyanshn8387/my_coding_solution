@@ -65,6 +65,7 @@
 | [0904-fruit-into-baskets](https://github.com/priyanshn8387/my_coding_solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/priyanshn8387/my_coding_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1028-interval-list-intersections](https://github.com/priyanshn8387/my_coding_solution/tree/master/1028-interval-list-intersections) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanshn8387/my_coding_solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -88,6 +89,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/priyanshn8387/my_coding_solution/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/priyanshn8387/my_coding_solution/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/priyanshn8387/my_coding_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3477-fruits-into-baskets-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
