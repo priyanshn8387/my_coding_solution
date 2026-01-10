@@ -105,6 +105,7 @@
 | [0140-word-break-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/priyanshn8387/my_coding_solution/tree/master/0146-lru-cache) |
+| [0205-isomorphic-strings](https://github.com/priyanshn8387/my_coding_solution/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/priyanshn8387/my_coding_solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshn8387/my_coding_solution/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshn8387/my_coding_solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -137,6 +138,7 @@
 | [0139-word-break](https://github.com/priyanshn8387/my_coding_solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/priyanshn8387/my_coding_solution/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/priyanshn8387/my_coding_solution/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshn8387/my_coding_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshn8387/my_coding_solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshn8387/my_coding_solution/tree/master/0451-sort-characters-by-frequency) |
