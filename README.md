@@ -50,6 +50,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0463-island-perimeter](https://github.com/priyanshn8387/my_coding_solution/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/priyanshn8387/my_coding_solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0523-continuous-subarray-sum) |
@@ -114,6 +115,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshn8387/my_coding_solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshn8387/my_coding_solution/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/priyanshn8387/my_coding_solution/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0560-subarray-sum-equals-k) |
@@ -446,6 +448,7 @@
 | [0042-trapping-rain-water](https://github.com/priyanshn8387/my_coding_solution/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/priyanshn8387/my_coding_solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/priyanshn8387/my_coding_solution/tree/master/0739-daily-temperatures) |
 ## Merge Sort
@@ -456,6 +459,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyanshn8387/my_coding_solution/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/priyanshn8387/my_coding_solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/priyanshn8387/my_coding_solution/tree/master/0739-daily-temperatures) |
 ## Bit Manipulation
