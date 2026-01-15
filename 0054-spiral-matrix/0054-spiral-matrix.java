@@ -23,16 +23,21 @@ class Solution {
             }
             right--;
 
-            for(int j=right;j>=left;j--){
-                res.add(matrix[bottom][j]);
+            // FIX 2: boundary check
+            if (top <= bottom) {
+                for (int j = right; j >= left; j--) {
+                    res.add(matrix[bottom][j]);
+                }
+                bottom--;
             }
-            bottom--;
 
-            for(int i=bottom;i>=top;i--){
-                res.add(matrix[i][left]);
+            // FIX 3: boundary check
+            if (left <= right) {
+                for (int i = bottom; i >= top; i--) {
+                    res.add(matrix[i][left]);
+                }
+                left++;
             }
-            left++;
-
         }
 
         return res;
