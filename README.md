@@ -73,6 +73,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/priyanshn8387/my_coding_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1028-interval-list-intersections](https://github.com/priyanshn8387/my_coding_solution/tree/master/1028-interval-list-intersections) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanshn8387/my_coding_solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyanshn8387/my_coding_solution/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -96,6 +97,7 @@
 | [0792-binary-search](https://github.com/priyanshn8387/my_coding_solution/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/priyanshn8387/my_coding_solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/priyanshn8387/my_coding_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3477-fruits-into-baskets-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -319,6 +321,7 @@
 | [0463-island-perimeter](https://github.com/priyanshn8387/my_coding_solution/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/priyanshn8387/my_coding_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/priyanshn8387/my_coding_solution/tree/master/0733-flood-fill) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
