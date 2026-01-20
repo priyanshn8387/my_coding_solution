@@ -111,6 +111,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/priyanshn8387/my_coding_solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0140-word-break-ii) |
+| [0141-linked-list-cycle](https://github.com/priyanshn8387/my_coding_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/priyanshn8387/my_coding_solution/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/priyanshn8387/my_coding_solution/tree/master/0205-isomorphic-strings) |
@@ -220,6 +221,7 @@
 | [0075-sort-colors](https://github.com/priyanshn8387/my_coding_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/priyanshn8387/my_coding_solution/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/priyanshn8387/my_coding_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshn8387/my_coding_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -430,6 +432,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/priyanshn8387/my_coding_solution/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0141-linked-list-cycle](https://github.com/priyanshn8387/my_coding_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/priyanshn8387/my_coding_solution/tree/master/0146-lru-cache) |
