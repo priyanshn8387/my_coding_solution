@@ -1,42 +1,39 @@
 class Solution {
 
-    public int dfs(int i, int j, int[][]grid, boolean [][]visited){
+    public int dfs(int i, int j, int[][] grid){
 
-    if(i<0 || i>=grid.length || j<0 || j>=grid[0].length || grid[i][j]==0 || visited[i][j]){
-        return 0;
-    }
+        if(i<0 || j<0 || i>=grid.length || j>=grid[0].length || grid[i][j]==0){
+            return 0;
+        }
 
-    visited[i][j]=true;
-    int count=1;
+        grid[i][j]=0;
+        int count=1;
 
-    int[][] dirs = {{i-1,j},{i,j+1},{i+1,j},{i,j-1}};
-    for(int[] dir : dirs){
-        int i_=dir[0];
-        int j_=dir[1];
+        count+=dfs(i,j+1,grid);
+        count+=dfs(i-1,j,grid);
+        count+=dfs(i,j-1,grid);
+        count+=dfs(i+1,j,grid);
 
-        count+=dfs(i_,j_,grid,visited);
-    }
-
-    return count;
+        return count;
     }
     public int maxAreaOfIsland(int[][] grid) {
-        
+
+        // solve withhout visited array, ask to interviewer first can i modify the existing array
 
         int row = grid.length;
         int col = grid[0].length;
-        int areaMax = 0;
-        boolean[][] visited = new boolean[row][col];
+        int maxi = Integer.MIN_VALUE;
 
         for(int i=0;i<row;i++){
             for(int j=0;j<col;j++){
-                if(grid[i][j]==1 && !visited[i][j]){
-                    int area = dfs(i,j,grid,visited);
-                    areaMax=Math.max(areaMax,area);
-                   
+                if(grid[i][j]==1){
+                    int area = dfs(i,j,grid);
+                    maxi=Math.max(maxi,area);
                 }
             }
         }
 
-        return areaMax;
+        return maxi==Integer.MIN_VALUE ? 0 : maxi;
+        
     }
 }
