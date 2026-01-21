@@ -516,4 +516,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/priyanshn8387/my_coding_solution/tree/master/0796-rotate-string) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/priyanshn8387/my_coding_solution/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
