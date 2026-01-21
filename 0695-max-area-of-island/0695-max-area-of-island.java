@@ -20,6 +20,9 @@ class Solution {
 
         // solve withhout visited array, ask to interviewer first can i modify the existing array
 
+        // TC -> O(row*col)
+        // SC : O(row*col) (recursion stack)
+
         int row = grid.length;
         int col = grid[0].length;
         int maxi = Integer.MIN_VALUE;
