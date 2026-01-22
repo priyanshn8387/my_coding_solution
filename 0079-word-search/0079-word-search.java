@@ -1,51 +1,46 @@
 class Solution {
 
-    public boolean dfs(int i, int j, char[][] grid, boolean [][] visited, String word, int wordIndex){
+    public boolean dfs(int i, int j, char[][] board, String word, int index){
 
-    if(i<0 || i>=grid.length || j<0 || j>=grid[0].length || visited[i][j] || grid[i][j]!=word.charAt(wordIndex)){
-        return false;
+        if(i<0 || j<0 || i>=board.length || j>=board[0].length || board[i][j]!=word.charAt(index) || board[i][j]=='#') return false;
+
+        if(word.length()==index+1) return true;
+
+        char current = board[i][j];
+        board[i][j]='#';
+
+        boolean right = dfs(i,j+1,board,word,index+1);
+        boolean bottom = dfs(i+1,j,board,word,index+1);
+        boolean left = dfs(i,j-1,board,word,index+1);
+        boolean top = dfs(i-1,j,board,word,index+1);
+
+
+
+        // backtrack
+        board[i][j]=current;
+
+        return (right || bottom || left || top);
+
     }
-
-    if(wordIndex==word.length()-1) return true;
-
-    visited[i][j]=true;
-
-    int[][] dirs = {{i-1,j},{i,j+1},{i+1,j},{i,j-1}};
-
-    for(int[] dir : dirs){
-        int i_=dir[0];
-        int j_=dir[1];
-
-        if(dfs(i_,j_,grid,visited,word,wordIndex+1)){
-            return true;
-        }
-
-       
-    }
-
-     // Backtrack: unmark the cell as visited
-        visited[i][j] = false;
-
-        return false; // No valid path found
-    }
-
     public boolean exist(char[][] board, String word) {
         
-         int row = board.length;
-        int col = board[0].length;
-        boolean[][] visited = new boolean[row][col];
 
-        // Start DFS from every cell that matches the first character of the word
-        for (int i = 0; i < row; i++) {
-            for (int j = 0; j < col; j++) {
-                if (board[i][j] == word.charAt(0)) {
-                    if (dfs(i, j, board, visited, word, 0)) {
-                        return true; // Return true if a valid path is found
+        int row = board.length;
+        int col = board[0].length;
+
+
+        for(int i=0;i<row;i++){
+            for(int j=0;j<col;j++){
+                if(board[i][j]==word.charAt(0)){
+                     if (dfs(i, j, board, word, 0)) {
+                        return true;
                     }
                 }
             }
         }
 
-        return false; // Return false if no path is found
+        return false;
+
+        
     }
 }
