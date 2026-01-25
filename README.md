@@ -341,6 +341,7 @@
 | [0226-invert-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/priyanshn8387/my_coding_solution/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/priyanshn8387/my_coding_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/priyanshn8387/my_coding_solution/tree/master/0733-flood-fill) |
@@ -405,6 +406,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/priyanshn8387/my_coding_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -425,6 +427,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/priyanshn8387/my_coding_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
