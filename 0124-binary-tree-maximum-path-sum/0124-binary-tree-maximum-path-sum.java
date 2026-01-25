@@ -13,27 +13,33 @@
  *     }
  * }
  */
+
 class Solution {
 
-    int res = Integer.MIN_VALUE;
+    int maxSum = Integer.MIN_VALUE;
 
-    public int Solve(TreeNode root) {
-        if (root == null)
-            return 0;
+    public int getHeight(TreeNode node) {
+        if (node == null) return 0;
 
-        int l = Solve(root.left);
-        int r = Solve(root.right);
+        int leftHeight  = Math.max(0,getHeight(node.left));
+        int rightHeight = Math.max(0,getHeight(node.right));
 
-        int temp = Math.max(root.val + Math.max(l, r), root.val);
-        int ans = Math.max(temp, l + r + root.val);
-        res = Math.max(res, ans);
+        // Height to be passed to parent
+        int currentHeight = Math.max(leftHeight, rightHeight)+node.val;
 
-        return temp;
+        // Diameter passing through current node (in nodes)
+        int diameterThroughNode = leftHeight + rightHeight + node.val;
+
+        // Update global maximum diameter
+        maxSum = Math.max(maxSum, diameterThroughNode);
+
+        return currentHeight;
     }
     public int maxPathSum(TreeNode root) {
         
-        Solve(root);
-        return res;
+        getHeight(root);
+
+        return maxSum;
 
     }
 }
