@@ -408,6 +408,7 @@
 | [0226-invert-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
@@ -415,6 +416,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -429,6 +431,7 @@
 | [0226-invert-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Data Stream
