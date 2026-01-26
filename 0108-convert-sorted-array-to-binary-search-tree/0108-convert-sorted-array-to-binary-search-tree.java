@@ -16,27 +16,27 @@
 class Solution {
     public TreeNode sortedArrayToBST(int[] nums) {
 
-        //base condition
-        int size = nums.length;
+        if(nums.length==0) return null;
+        int low =0;
+        int high = nums.length-1;
+        int mid = (low+high)/2;
 
-        if(size==0) return null;
-        if(size==1) return new TreeNode(nums[0]);
-        int mid = size/2;
-
-        TreeNode root = new TreeNode(nums[mid]);
-        int[] leftList = new int[mid];
-        int[] rightList = new int[size-1-mid];
-       
+        int [] left = new int[mid];
+        int [] right = new int[high-mid];
 
         for(int i=0;i<mid;i++){
-            leftList[i]=nums[i];
+            left[i]=nums[i];
         }
-        int index=0;
-        for(int i=mid+1;i<size;i++){
-            rightList[index++]=nums[i];
+        int j=0;
+        for(int i=mid+1;i<nums.length;i++){
+            right[j++]=nums[i];
         }
-        root.left = sortedArrayToBST(leftList);
-        root.right = sortedArrayToBST(rightList);
+       
+
+        TreeNode root = new TreeNode(nums[mid]);
+
+        root.left = sortedArrayToBST(left);
+        root.right =sortedArrayToBST(right);
 
         return root;
         
