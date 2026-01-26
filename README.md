@@ -348,6 +348,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/priyanshn8387/my_coding_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/priyanshn8387/my_coding_solution/tree/master/0733-flood-fill) |
+| [0938-range-sum-of-bst](https://github.com/priyanshn8387/my_coding_solution/tree/master/0938-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -417,6 +418,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/priyanshn8387/my_coding_solution/tree/master/0938-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -429,6 +431,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/priyanshn8387/my_coding_solution/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/priyanshn8387/my_coding_solution/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -448,6 +451,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/priyanshn8387/my_coding_solution/tree/master/0938-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Data Stream
 |  |
