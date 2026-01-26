@@ -340,6 +340,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/priyanshn8387/my_coding_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/priyanshn8387/my_coding_solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshn8387/my_coding_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priyanshn8387/my_coding_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/priyanshn8387/my_coding_solution/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0543-diameter-of-binary-tree) |
@@ -408,6 +409,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/priyanshn8387/my_coding_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshn8387/my_coding_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/priyanshn8387/my_coding_solution/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -420,6 +422,7 @@
 | [0098-validate-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshn8387/my_coding_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/priyanshn8387/my_coding_solution/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -435,6 +438,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/priyanshn8387/my_coding_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshn8387/my_coding_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/priyanshn8387/my_coding_solution/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/priyanshn8387/my_coding_solution/tree/master/0662-maximum-width-of-binary-tree) |
