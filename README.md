@@ -59,6 +59,7 @@
 | [0523-continuous-subarray-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/priyanshn8387/my_coding_solution/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/priyanshn8387/my_coding_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/priyanshn8387/my_coding_solution/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0713-subarray-product-less-than-k) |
@@ -127,6 +128,7 @@
 | [0525-contiguous-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/priyanshn8387/my_coding_solution/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/priyanshn8387/my_coding_solution/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/priyanshn8387/my_coding_solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/priyanshn8387/my_coding_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyanshn8387/my_coding_solution/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -213,6 +215,7 @@
 | [0295-find-median-from-data-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshn8387/my_coding_solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshn8387/my_coding_solution/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/priyanshn8387/my_coding_solution/tree/master/0621-task-scheduler) |
 ## Two Pointers
 |  |
 | ------- |
@@ -392,6 +395,7 @@
 | [0295-find-median-from-data-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshn8387/my_coding_solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshn8387/my_coding_solution/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/priyanshn8387/my_coding_solution/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
@@ -403,6 +407,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/priyanshn8387/my_coding_solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshn8387/my_coding_solution/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/priyanshn8387/my_coding_solution/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -544,6 +549,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshn8387/my_coding_solution/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/priyanshn8387/my_coding_solution/tree/master/0179-largest-number) |
+| [0621-task-scheduler](https://github.com/priyanshn8387/my_coding_solution/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshn8387/my_coding_solution/tree/master/1903-largest-odd-number-in-string) |
 ## Segment Tree
