@@ -210,6 +210,7 @@
 | [0179-largest-number](https://github.com/priyanshn8387/my_coding_solution/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/priyanshn8387/my_coding_solution/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshn8387/my_coding_solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshn8387/my_coding_solution/tree/master/0451-sort-characters-by-frequency) |
 ## Two Pointers
@@ -230,6 +231,7 @@
 | [0189-rotate-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/priyanshn8387/my_coding_solution/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/priyanshn8387/my_coding_solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0908-middle-of-the-linked-list) |
@@ -379,6 +381,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/priyanshn8387/my_coding_solution/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/priyanshn8387/my_coding_solution/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
@@ -386,6 +389,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/priyanshn8387/my_coding_solution/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshn8387/my_coding_solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshn8387/my_coding_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -461,6 +465,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Linked List
 |  |
