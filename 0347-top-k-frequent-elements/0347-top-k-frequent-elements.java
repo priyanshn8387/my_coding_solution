@@ -18,10 +18,9 @@ class Solution {
 
         int[] res = new int[k];
         int i=0;
-
-        for(Map.Entry<Integer,Integer> entry : freqMap.entrySet()){
-
-            res[i++]=entry.getKey();
+        while(!pq.isEmpty()){
+            res[i++]=pq.poll().getKey();
+           
         }
 
         return res;
