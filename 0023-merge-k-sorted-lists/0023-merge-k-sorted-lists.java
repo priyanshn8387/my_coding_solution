@@ -9,31 +9,36 @@
  * }
  */
 class Solution {
-
     public ListNode mergeKLists(ListNode[] lists) {
+        int k = lists.length;
 
-        PriorityQueue<ListNode> pq = new PriorityQueue<>((a,b)->a.val - b.val);
+        PriorityQueue<ListNode> pq = new PriorityQueue<>((a,b)->a.val-b.val);
 
-        for(ListNode list : lists){
-            if(list!=null){
-                pq.offer(list);
+         // Add head of each list
+        for (int i = 0; i < lists.length; i++) {
+            if (lists[i] != null) {
+                pq.offer(lists[i]);
             }
         }
 
-        ListNode newHead = new ListNode(-1);
-        ListNode newTail=newHead;
+        ListNode dummyHead = new ListNode(-1);
+        ListNode dummyTail = dummyHead;
 
         while(!pq.isEmpty()){
-            ListNode temp  = pq.poll();
-            newTail.next = temp;
-            newTail = temp;
+            ListNode current = pq.poll();
 
-            if(temp.next!=null){
-                pq.offer(temp.next);
-            }
+            dummyTail.next = current;
+            dummyTail = current;
+
+            if(current.next!=null) pq.offer(current.next);
         }
 
-        return newHead.next;
-        
+
+        return dummyHead.next;
+
+
+
+
+
     }
 }
