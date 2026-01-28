@@ -384,6 +384,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/priyanshn8387/my_coding_solution/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/priyanshn8387/my_coding_solution/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/priyanshn8387/my_coding_solution/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshn8387/my_coding_solution/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -518,6 +519,7 @@
 | [0020-valid-parentheses](https://github.com/priyanshn8387/my_coding_solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/priyanshn8387/my_coding_solution/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/priyanshn8387/my_coding_solution/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/priyanshn8387/my_coding_solution/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/priyanshn8387/my_coding_solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0503-next-greater-element-ii) |
