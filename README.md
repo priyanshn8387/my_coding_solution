@@ -31,6 +31,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/priyanshn8387/my_coding_solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/priyanshn8387/my_coding_solution/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshn8387/my_coding_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshn8387/my_coding_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/priyanshn8387/my_coding_solution/tree/master/0179-largest-number) |
@@ -259,6 +260,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/priyanshn8387/my_coding_solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/priyanshn8387/my_coding_solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/priyanshn8387/my_coding_solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/priyanshn8387/my_coding_solution/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/priyanshn8387/my_coding_solution/tree/master/0300-longest-increasing-subsequence) |
